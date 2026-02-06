@@ -1,2 +1,2 @@
 # cecs326-giaphan
-This repo for course CECS326 - Operating System Spring documents.
+This repo for course CECS326 - Operating System Spring subminssion.
